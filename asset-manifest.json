@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Discussion_Portal/static/css/main.b468ad6a.css",
+    "main.js": "/Discussion_Portal/static/js/main.15123456.js",
+    "index.html": "/Discussion_Portal/index.html",
+    "main.b468ad6a.css.map": "/Discussion_Portal/static/css/main.b468ad6a.css.map",
+    "main.15123456.js.map": "/Discussion_Portal/static/js/main.15123456.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b468ad6a.css",
+    "static/js/main.15123456.js"
+  ]
+}
